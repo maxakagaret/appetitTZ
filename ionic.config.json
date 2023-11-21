@@ -1,0 +1,7 @@
+{
+  "name": "appetit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
