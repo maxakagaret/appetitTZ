@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">appetit</string>
+    <string name="title_activity_main">appetit</string>
+    <string name="package_name">ionic.appetit</string>
+    <string name="custom_url_scheme">ionic.appetit</string>
+</resources>
